@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-menu-pizzeria-aldente/static/css/main.ec313818.css",
+    "main.js": "/React-menu-pizzeria-aldente/static/js/main.6e524fd4.js",
+    "index.html": "/React-menu-pizzeria-aldente/index.html",
+    "main.ec313818.css.map": "/React-menu-pizzeria-aldente/static/css/main.ec313818.css.map",
+    "main.6e524fd4.js.map": "/React-menu-pizzeria-aldente/static/js/main.6e524fd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec313818.css",
+    "static/js/main.6e524fd4.js"
+  ]
+}
